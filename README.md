@@ -1,0 +1,2 @@
+# FZPageView
+利用NSTIme以及ScrollView实现的图片轮播器,内置Pagecontrol
